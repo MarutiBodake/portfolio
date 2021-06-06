@@ -210,8 +210,7 @@ section{
 .home .share{
     transform: translateX(-50%,-50%);
     display: flex;
-    justify-content: space-evenly;
-    margin-right: 16rem;
+    width: fit-content;
     border-radius: 2rem solid var(--main-color);;
     background:var(--main-color);
     box-shadow: 0 1rem 2rem rgba(0,0,0,.2);
